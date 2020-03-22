@@ -13,10 +13,10 @@
     <nav>
         <a id="nav-logo"  href="#"><img  src="stroke-gradient.svg" alt="logo"></a>
         <ul>
-            <li><a href="#">home</a></li>
-            <li><a href="#">work</a></li>
-            <li><a href="#">about</a></li>
-            <li><a href="#">contact</a></li>
+            <li><a href="index.md">home</a></li>
+            <li><a href="work.md">work</a></li>
+            <li><a href="about.md">about</a></li>
+            <li><a href="contact.md">contact</a></li>
         </ul>
     </nav>
 </header>
@@ -54,10 +54,10 @@
    
 <footer>
     <ul>
-        <li><a href="#">home</a></li>
-        <li><a href="#">work</a></li>
-        <li><a href="#">about</a></li>
-        <li><a href="#">contact</a></li>
+        <li><a href="index.md">home</a></li>
+        <li><a href="work.md">work</a></li>
+        <li><a href="about.md">about</a></li>
+        <li><a href="contact.md">contact</a></li>
     </ul>
 </footer>
 </body>
