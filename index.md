@@ -11,12 +11,12 @@
 <body>
 <header>
     <nav>
-        <a id="nav-logo"  href="#"><img  src="stroke-gradient.svg" alt="logo"></a>
+        <a id="nav-logo"  href="index.html"><img  src="stroke-gradient.svg" alt="logo"></a>
         <ul>
-            <li><a href="index.md">home</a></li>
-            <li><a href="work.md">work</a></li>
-            <li><a href="about.md">about</a></li>
-            <li><a href="contact.md">contact</a></li>
+            <li><a href="index.html">home</a></li>
+            <li><a href="work.html">work</a></li>
+            <li><a href="about.html">about</a></li>
+            <li><a href="contact.html">contact</a></li>
         </ul>
     </nav>
 </header>
@@ -54,10 +54,10 @@
    
 <footer>
     <ul>
-        <li><a href="index.md">home</a></li>
-        <li><a href="work.md">work</a></li>
-        <li><a href="about.md">about</a></li>
-        <li><a href="contact.md">contact</a></li>
+        <li><a href="index.html">home</a></li>
+        <li><a href="work.html">work</a></li>
+        <li><a href="about.html">about</a></li>
+        <li><a href="contact.html">contact</a></li>
     </ul>
 </footer>
 </body>
