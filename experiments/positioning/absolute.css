@@ -1,0 +1,25 @@
+html, body {
+   margin: 0;
+   padding: 0;
+ }
+
+#outer {
+   margin: 5em;
+   border: 1px solid #f00;
+   height: 4em;
+    width:100%;
+    
+
+ }
+
+ #inner {
+   width: 50%;
+  height: 400px;
+  background-color: aqua;
+         position: fixed;
+ }
+#i2{
+     height: 150em;
+    width: 50%;
+    background-color: yellow;
+}
